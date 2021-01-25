@@ -1,0 +1,6 @@
+1 >>first you to install python => 3.6 if you install python in window machnie  then you need to tic pip 
+    during installation if found some problem pls follow this link https://www.liquidweb.com/kb/install-pip-windows/
+    in linux or mac then follow linn https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/
+
+2> downlaod dlib model to  from this link https://github.com/JeffTrain/selfie/blob/master/shape_predictor_68_face_landmarks.dat
+3>> you need run setup.txt file as "pip install -r setup.txt" no error found now  you ready to use thsi project
